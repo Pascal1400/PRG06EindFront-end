@@ -1,0 +1,62 @@
+.Edit-form {
+    padding: 0 10vw;
+}
+
+.Edit-input {
+    padding: 1vw 1.5vw;
+    font-size: 1rem;
+    border-radius: 8px;
+    border: 2px solid transparent;
+    flex: 4;
+    margin: 0 0 0 2vw;
+}
+
+.Edit-input:hover {
+    border: 2px solid #747bff;
+}
+
+.Edit-input:focus {
+    box-shadow: 0 0 8px #646cff;
+    outline: none;
+}
+
+.Edit-divs {
+    display: flex;
+    align-items: center;
+    padding: 0 0 2vw 0;
+}
+
+.Edit-label {
+    flex: 1;
+    text-align: left;
+    margin: 0 2vw 0 0;
+}
+
+.Edit-edits {
+    margin: 0 0 2vw 0;
+}
+
+.Edit-buttons {
+    display: flex;
+    padding: 0 0 4vw 0;
+}
+
+.Button-change {
+    flex: 1;
+    margin: 0 2vw 0 0;
+}
+
+.Button-delete {
+    flex: 1;
+    background-color: #ff7474;
+    color: #1c1c1c;
+    margin: 0 0 0 2vw;
+}
+
+.Button-delete:hover {
+    background-color: #ff9696;
+}
+
+.success-message {
+    padding: 0 0 4vw 0;
+}

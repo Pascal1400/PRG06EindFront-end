@@ -1,0 +1,17 @@
+.home-title {
+    font-size: 3em;
+    margin: 0;
+    padding: 6.5vw 5vw;
+}
+
+.home-image {
+    width: 55vw;
+    border: 6px solid #747bff;
+    border-radius: 15px;
+}
+
+.home-description {
+    margin: 0;
+    padding: 4vw;
+    font-size: 1.2rem;
+}

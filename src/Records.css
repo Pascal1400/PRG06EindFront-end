@@ -1,0 +1,51 @@
+.Record-ul {
+    list-style: none;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.Record-li {
+    padding: 0;
+    margin: 0;
+}
+
+.Record-li-odd {
+    background-color: #f9f9ff;
+}
+
+.Record-li-even {
+    background-color: #bdbfff;
+}
+
+.Record-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #242424;
+    padding: 2vw 5vw;
+}
+
+.Section-left {
+    margin: 0 4vw 0 0;
+}
+
+.Section-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.recordName {
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: start;
+    margin: 0 0 1vw 0;
+}
+
+.recordhouder {
+    display: flex;
+    justify-content: start;
+    margin: 0;
+}

@@ -1,0 +1,16 @@
+.Detail {
+    margin: 0 10vw 2vw 10vw;
+    padding: 2vw 5vw;
+    background-color: #1c1c1c;
+    border: 4px solid #747bff;
+    border-radius: 8px;
+}
+
+.Detail-recordHouder {
+    margin: 0;
+}
+
+.Detail-button {
+    margin: 0 0 4vw 0;
+
+}
